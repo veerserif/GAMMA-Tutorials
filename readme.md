@@ -46,8 +46,8 @@ This mod aims to use strangerism's [New Player Experience](https://discord.com/c
 
 *Artefacts*
 
-| Done? | Trigger | Tutorial |
-|-------|---------|----------|
+| Trigger | Tutorial |
+|---------|----------|
 | Equip detector | Detector usage
 | Acquire artefact melter | Artefact crafting system
 | Acquire perkifact | Explain perkifacts
@@ -56,8 +56,8 @@ This mod aims to use strangerism's [New Player Experience](https://discord.com/c
 
 *Stashes and loot*
 
-| Done? | Trigger | Tutorial |
-|-------|---------|----------|
+| Trigger | Tutorial |
+|---------|----------|
 | Receive a stash as reward | GAMMA stash reward system (white vs yellow), tool acquisition
 | Receive a yellow stash reward | tool acquisition?
 | Loot PDA | PDA viewing (right click -> view) and info selling
