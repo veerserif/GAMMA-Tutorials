@@ -14,6 +14,7 @@ This mod aims to use strangerism's [New Player Experience](https://discord.com/c
 | Entering North zone before MM | "Do MM you dummy", how to get psyhelmet
 | ??? | Explaining the north-to-south difficulty gradient
 | Player gets hungry/thirsty/sleepy | Explain hunger/thirst/sleep
+| Player is overencumbered | Encumbrance system + how to add carryweight
 | Emission warning? | Emissions lol lmao
 | Acquiring psyhelmet | Explain how the psyhelmet works
 
@@ -82,5 +83,6 @@ This mod aims to use strangerism's [New Player Experience](https://discord.com/c
 | Open Taskboard | Taskboard system
 | Use Autoloot | Autoloot
 | Talk to any guide | Fast travel system inc. FFT
+| Player increases a skill | Skill system?
 
 *More items TBD.*
