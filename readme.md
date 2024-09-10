@@ -77,9 +77,9 @@ This mod aims to use strangerism's [New Player Experience](https://discord.com/c
 
 *Mod-added systems*
 
-| Done? | Trigger | Tutorial |
-|-------|---------|----------|
-| | Equip RF Receiver | RF Receiver system
+| Trigger | Tutorial |
+|---------|----------|
+| Equip RF Receiver | RF Receiver system
 | Open Taskboard | Taskboard system
 | Use Autoloot | Autoloot
 | Talk to any guide | Fast travel system inc. FFT
