@@ -44,6 +44,7 @@ This mod aims to use strangerism's [New Player Experience](https://discord.com/c
 | Acquiring gun **repair** kit | WPO repair kit charge system
 | Acquiring any tools | Portable workbench system, high-tier kits include lower tier ones, etc.
 | Opening any workbench | Crafting system/workbench capabilities
+| ??? | Explaining the crafting icons
 
 *Artefacts*
 
